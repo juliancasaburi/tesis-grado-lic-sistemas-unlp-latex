@@ -1,3 +1,14 @@
+# Tesina de Licenciatura en Sistemas
+
+# Licencia
+[![CC BY 4.0][cc-by-shield]][cc-by]
+
+Este proyecto se encuentra licenciado bajo una
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
+
 ## Generación del PDF de salida
 
 ### Opción 1: Utilizando imagen de Docker creada para este proyecto
